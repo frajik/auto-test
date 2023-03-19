@@ -14,3 +14,7 @@ venv.bak/
 __pycache__/
 *.py[cod]
 *$py.class
+
+.seleniumLessons/chromedriver.exe/
+.seleniumLessons/deckodriver.exe/
+.seleniumLessons/deckodriver.log/
