@@ -4,8 +4,6 @@ from selenium.webdriver.common.by import By
 import time
 
 base_url = 'https://demoqa.com/'
-base_user_name = "standard_user"
-base_password = "secret_sauce"
 driver = webdriver.Chrome(
     executable_path="/d/Dev/auto_testing/seleniumLessons/chromedriver.exe"
 )
